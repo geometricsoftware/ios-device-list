@@ -1394,6 +1394,34 @@
     ]
   },
   {
+    "Generation": "iPad (7th generation)",
+    "ANumber": "A2197",
+    "FCCID": "BCGA1954",
+    "InternalName": "J172AP",
+    "Identifier": "iPad7,11",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MRM52" ]
+      }
+    ]
+  },
+  {
+    "Generation": "iPad (7th generation)",
+    "ANumber": "A2200",
+    "FCCID": "BCGA1954",
+    "InternalName": "J171AP",
+    "Identifier": "iPad7,12",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "32 GB",
+        "Model": [ "MRM52" ]
+      }
+    ]
+  },
+  {
     "Generation": "iPad Pro (11-inch)",
     "ANumber": "A1980",
     "FCCID": "BCGA1980",

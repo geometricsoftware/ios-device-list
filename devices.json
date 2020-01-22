@@ -398,6 +398,18 @@
     "FCCID": "BCGA1954"
   },
   {
+    "name": "iPad (7th generation)",
+    "model": "iPad7,11",
+    "ANumber": "A2197",
+    "FCCID": "BCGA1954"
+  },
+  {
+    "name": "iPad (7th generation)",
+    "model": "iPad7,12",
+    "ANumber": "A2200",
+    "FCCID": "BCGA1954"
+  },
+  {
     "name": "iPad Pro (11-inch)",
     "model": "iPad8,1",
     "ANumber": "A1980",
