@@ -3143,5 +3143,20 @@
         "Model": [ "MWF52" ]
       }
     ]
+  },
+  {
+    "Generation": "iPhone SE (2nd generation)",
+    "ANumber": [ "A2218" ],
+    "Bootrom": [ "Bootrom 4479.0.0.100.4" ],
+    "FCCID": [ "BCG-E3309A" ],
+    "InternalName": "D431AP",
+    "Identifier": "iPhone12,8",
+    "Models": [
+      {
+        "Color": "Gold",
+        "Storage": "64 GB",
+        "Model": [ "MWEX2" ]
+      }
+    ]
   }
 ]

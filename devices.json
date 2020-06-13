@@ -1130,6 +1130,16 @@
     ]
   },
   {
+    "name": "iPhone SE (2nd generation)",
+    "model": "iPhone12,8",
+    "ANumber": [
+      "A2218"
+    ],
+    "FCCID": [
+      "BCG-E3309A"
+    ]
+  },
+  {
     "name": "iPod touch",
     "model": "iPod1,1",
     "ANumber": "A1213",
