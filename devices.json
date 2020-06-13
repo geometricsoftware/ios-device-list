@@ -506,6 +506,12 @@
     "FCCID": "BCGA2014"
   },
   {
+    "name": "iPad Pro (12.9-inch) (4rd generation)",
+    "model": "iPad8,11",
+    "ANumber": "A2014",
+    "FCCID": "BCGA2014"
+  },
+  {
     "name": "iPad Air (3rd generation)",
     "model": "iPad11,3",
     "ANumber": "A2152",

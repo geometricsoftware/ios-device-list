@@ -1888,6 +1888,25 @@
     ]
   },
   {
+    "Generation": "iPad Pro (12.9-inch) (4rd generation)",
+    "ANumber": "A2014",
+    "FCCID": "BCGA2014",
+    "InternalName": "J321xAP",
+    "Identifier": "iPad8,11",
+    "Models": [
+      {
+        "Color": "Silver",
+        "Storage": "1 TB",
+        "Model": [ "MTL02" ]
+      },
+      {
+        "Color": "Space Gray",
+        "Storage": "1 TB",
+        "Model": [ "MTJU2" ]
+      }
+    ]
+  },
+  {
     "Generation": "iPad Air (3rd generation)",
     "ANumber": "A2152",
     "Bootrom": "Bootrom 3865.0.0.4.7",
